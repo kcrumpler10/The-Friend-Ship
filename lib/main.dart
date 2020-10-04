@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text(
-            "Friend Ship",
+            "The Friend Ship",
             style: GoogleFonts.sansita(
               fontWeight: FontWeight.w700,
               fontSize: 40.0,
