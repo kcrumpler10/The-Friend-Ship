@@ -1,2 +1,2 @@
 # Friend Ship
-*Every Relationship, should start with a Friendship*
+*Every relationship, should start with a friendship*
